@@ -1,1 +1,81 @@
 /* Write your CSS here! */
+.collage {
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+}
+
+.TheEarlyYears {
+background-color: greenyellow;
+text-align:  center;
+}
+
+.LeavingNewYork {
+    height: 25%;
+    width: 25%;
+    }
+
+
+img{
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    border-radius: 8px;
+}
+body {
+    margin: 8px;
+    display: block;
+  }
+  
+  #mainHeading {
+    color: red;
+  }
+  
+  #testP.funParagraph {
+    color: green;
+  }
+
+h1 {
+    background-color: greenyellow;
+    text-align: center
+    
+}
+h2 {
+    background-color:greenyellow;
+    font-family: 'Notable', sans-serif;
+    padding: 15px;
+    margin-bottom: 15px;
+    }
+h3 {
+        background-color:greenyellow;
+        font-family: 'Notable', sans-serif;
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+p {
+    margin-top: 15px;
+    color: beige;
+    font-family: 'Playfair Display', serif;
+}
+
+ul{
+    padding-right: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.active {
+    padding-right:30px;
+}
+article {
+    background-color:black;
+}
+
+
+footer {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+ 
+ 
